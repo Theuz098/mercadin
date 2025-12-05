@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.FormMenu.resources
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.Properties.Resources.resources
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MERCADIN\bin\Debug\MERCADIN.exe.config
+C:\Users\Usuario\source\repos\MERCADIN\bin\Debug\MERCADIN.exe
+C:\Users\Usuario\source\repos\MERCADIN\bin\Debug\MERCADIN.pdb
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.exe
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.pdb
+C:\Users\Usuario\source\repos\MERCADIN\obj\Debug\MERCADIN.exe.config
